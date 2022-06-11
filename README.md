@@ -5,7 +5,8 @@
 
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
-- 🌱 I’m currently learning 
+
+- 🌱 I’m currently learning **Full Stack Data Science**
 
 - 💬 Ask me about **Python, ML & DL**
 
